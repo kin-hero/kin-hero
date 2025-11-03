@@ -161,15 +161,8 @@ I'm always excited to connect with fellow developers, discuss tech, or collabora
 
 ---
 
-## 📊 GitHub Stats
-
-![Keane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kin-hero&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kin-hero&layout=compact&theme=radical)
-
----
-
 **💡 Currently exploring:** System Design, AI/LLM integration patterns, Data Structures and Algorithm
+
 **🎯 2025 Goals:** Build powerful projects that help me learn, Finish 100 Neetcode questions
 
 ---
