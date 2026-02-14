@@ -161,10 +161,7 @@ I'm always excited to connect with fellow developers, discuss tech, or collabora
 
 ---
 
-**💡 Currently exploring:** System Design, AI/LLM integration patterns, Data Structures and Algorithm
-
-**🎯 2025 Goals:** Build powerful projects that help me learn, Finish 100 Neetcode questions
-
+**💡 Currently exploring:** System Design, AI/LLM integration patterns, Nest JS, TS, GraphQL 
 ---
 
 _"The best code is the code that solves a real problem elegantly."_
